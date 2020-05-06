@@ -1,0 +1,8 @@
+Hawaii|2200|7
+Portugal|3200|7
+China|1200|2
+Japan|2255|3
+BoraBora|200|2
+India|500|2
+Romania|20|2
+Mongolia|5|2
